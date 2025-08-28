@@ -25,7 +25,7 @@ from aiogram.enums import ChatAction
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8425701456:AAH1lA7aO96lav1ckThQN6RNJE4j0r518LY"
+BOT_TOKEN = "8425701456:AAGQZwDckM0AhyxYiQ9MDRQSARnmOnB1dVA"
 JSON_PATH_RU = "data.json"          # RU dataset (current file)
 JSON_PATH_EN = "data_en.json"       # EN dataset (add this file with English translation)
 
