@@ -1,3 +1,4 @@
+import os
 import logging
 import asyncio
 import json
@@ -16,8 +17,10 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.filters import Command
 from aiogram.utils.keyboard import InlineKeyboardBuilder
+from aiogram.enums import ChatAction, ParseMode
+from aiogram.client.default import DefaultBotProperties
+
 from write_answer_google_exel import connect_to_sheet, save_answer, save_video_link
-from aiogram.enums import ChatAction
 
 # =========================
 # Logging
@@ -25,9 +28,15 @@ from aiogram.enums import ChatAction
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8425701456:AAGQZwDckM0AhyxYiQ9MDRQSARnmOnB1dVA"
+# =========================
+# Config
+# =========================
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+if not BOT_TOKEN:
+    raise RuntimeError("BOT_TOKEN is not set")
+
 JSON_PATH_RU = "data.json"          # RU dataset (current file)
-JSON_PATH_EN = "data_en.json"       # EN dataset (add this file with English translation)
+JSON_PATH_EN = "data_en.json"       # EN dataset (English translation)
 
 # =========================
 # Data utils
