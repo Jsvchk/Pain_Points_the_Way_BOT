@@ -27,7 +27,7 @@ from write_answer_google_exel import connect_to_sheet, save_answer, save_video_l
 # =========================
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
+print("BOT_TOKEN from env:", repr(BOT_TOKEN))
 # =========================
 # Config
 # =========================
