@@ -21,7 +21,8 @@ from aiogram.enums import ChatAction, ParseMode
 from aiogram.client.default import DefaultBotProperties
 
 from write_answer_google_exel import connect_to_sheet, save_answer, save_video_link
-
+from dotenv import load_dotenv
+load_dotenv()
 # =========================
 # Logging
 # =========================
