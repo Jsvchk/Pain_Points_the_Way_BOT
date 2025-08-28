@@ -28,7 +28,6 @@ load_dotenv()
 # =========================
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-print("BOT_TOKEN from env:", repr(BOT_TOKEN))
 # =========================
 # Config
 # =========================
