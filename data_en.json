@@ -1,0 +1,292 @@
+{
+  "zones": {
+    "Head": {
+      "title": "Tension in the head area 🤯",
+      "text": "Gentle mobilization of the neck/back of the head 🤲 + breathing 🌬️ to reduce tension.",
+      "video": "https://www.youtube.com/watch?v=uFCO4f-NklA"
+    },
+    "Neck": {
+      "title": "Neck / shoulder girdle 🧑‍🦱💆",
+      "text": "Release of the trapezius and chest area 💪, activation of the interscapular region 🦴.",
+      "video": "https://www.youtube.com/watch?v=9jQmlwaP22c"
+    },
+    "Chest": {
+      "title": "Chest / thoracic region 🫁",
+      "text": "Mobilization of the thoracic spine 🌀 + breathing into the side ribs ↔️.",
+      "video": "https://www.youtube.com/watch?v=vLj_tFp3-EY"
+    },
+    "Subclavian area — right": {
+      "title": "Subclavian area (right) 👉",
+      "text": "Gentle release of the pectoralis minor 🤲, clavicular-scapular line 🦴 + posture 🧍.",
+      "video": "https://www.youtube.com/watch?v=5MfrNxpo0FM"
+    },
+    "Subclavian area — left": {
+      "title": "Subclavian area (left) 👈",
+      "text": "Gentle release of the pectoralis minor 🤲, clavicular-scapular line 🦴 + posture 🧍.",
+      "video": "https://www.youtube.com/watch?v=5MfrNxpo0FM"
+    },
+    "Upper back": {
+      "title": "Upper back / scapular zone 🦴",
+      "text": "Opening of the thoracic region 🌀 + activation of the rhomboids 🔺 and lower trapezius 💪.",
+      "video": "https://www.youtube.com/watch?v=v_P-9K74aFA"
+    },
+    "Scapula — right": {
+      "title": "Right scapula 👉",
+      "text": "Scapular stabilization 🦴: control of scapula down/inward ⬇️➡️ (face pull).",
+      "video": "youtube.com/watch?v=AlTGQrDOd98&feature=youtu.be"
+    },
+    "Scapula — left": {
+      "title": "Left scapula 👈",
+      "text": "Scapular stabilization 🦴: control of scapula down/inward ⬇️⬅️ (face pull).",
+      "video": "youtube.com/watch?v=AlTGQrDOd98&feature=youtu.be"
+    },
+    "Lower back": {
+      "title": "Lower back 🧍‍♂️",
+      "text": "Unloading the lower back 🪑 + pelvis/glute activation 🍑.",
+      "video": "https://www.youtube.com/watch?v=3MqTsMWTF7k"
+    },
+    "Sacrum": {
+      "title": "Sacrum 🦴",
+      "text": "Gentle mobilization of the sacrum 🤲 + engagement of pelvic stabilizers ⚖️.",
+      "video": "https://www.youtube.com/watch?v=3MqTsMWTF7k"
+    },
+    "Abdomen": {
+      "title": "Center / core 💪",
+      "text": "Gentle core activation 🌟 and diaphragmatic breathing 🌬️.",
+      "video": "https://www.youtube.com/watch?v=bRhZz-q-u-s"
+    },
+    "Subcostal area — right": {
+      "title": "Subcostal area (right) 👉",
+      "text": "Breathing 🌬️ into the right subcostal area + diaphragm release 🫁.",
+      "video": "https://www.youtube.com/watch?v=5MfrNxpo0FM"
+    },
+    "Subcostal area — left": {
+      "title": "Subcostal area (left) 👈",
+      "text": "Breathing 🌬️ into the left subcostal area + diaphragm release 🫁.",
+      "video": "https://www.youtube.com/watch?v=5MfrNxpo0FM"
+    },
+    "Pelvis": {
+      "title": "Pelvis stabilization ⚖️",
+      "text": "Centering of the pelvis 🦵 + stretching of the hip flexors 🤸.",
+      "video": "https://www.youtube.com/watch?v=3MqTsMWTF7k"
+    },
+    "Glute — right": {
+      "title": "Right glute 🍑👉",
+      "text": "Glute activation 🍑 + knee control 🦵 over the foot 🦶.",
+      "video": "https://www.youtube.com/watch?v=3MqTsMWTF7k"
+    },
+    "Glute — left": {
+      "title": "Left glute 🍑👈",
+      "text": "Glute activation 🍑 + knee control 🦵 over the foot 🦶.",
+      "video": "https://www.youtube.com/watch?v=3MqTsMWTF7k"
+    },
+    "Shoulder — right": {
+      "title": "Shoulder 💪👉",
+      "text": "Mobilization of the shoulder girdle 🤸 + strengthening of scapular stabilizers 🦴.",
+      "video": "https://www.youtube.com/watch?v=DbphUrTFtis"
+    },
+    "Shoulder — left": {
+      "title": "Shoulder 💪👈",
+      "text": "Mobilization of the shoulder girdle 🤸 + strengthening of scapular stabilizers 🦴.",
+      "video": "https://www.youtube.com/watch?v=DbphUrTFtis"
+    },
+    "Arm — right": {
+      "title": "Shoulder/elbow/wrist 💪👉",
+      "text": "Mobilization of the shoulder girdle 🤸 + strengthening of scapular stabilizers 🦴.",
+      "video": "https://www.youtube.com/watch?v=DbphUrTFtis"
+    },
+    "Arm — left": {
+      "title": "Shoulder/elbow/wrist 💪👈",
+      "text": "Mobilization of the shoulder girdle 🤸 + strengthening of scapular stabilizers 🦴.",
+      "video": "https://www.youtube.com/watch?v=DbphUrTFtis"
+    },
+    "Elbow — right": {
+      "title": "Elbow 💪👉",
+      "text": "Mobilization of the shoulder girdle 🤸 + strengthening of scapular stabilizers 🦴.",
+      "video": "https://www.youtube.com/watch?v=DbphUrTFtis"
+    },
+    "Elbow — left": {
+      "title": "Elbow 💪👈",
+      "text": "Mobilization of the shoulder girdle 🤸 + strengthening of scapular stabilizers 🦴.",
+      "video": "https://www.youtube.com/watch?v=DbphUrTFtis"
+    },
+    "Wrist — right": {
+      "title": "Hand / wrist — right ✋👉",
+      "text": "Mobilization of the shoulder girdle 🤸 + strengthening of scapular stabilizers 🦴.",
+      "video": "https://www.youtube.com/watch?v=DbphUrTFtis"
+    },
+    "Wrist — left": {
+      "title": "Hand / wrist — left ✋👈",
+      "text": "Mobilization of the shoulder girdle 🤸 + strengthening of scapular stabilizers 🦴.",
+      "video": "https://www.youtube.com/watch?v=DbphUrTFtis"
+    },
+    "Fingers — right": {
+      "title": "Fingers (right) 👆👉",
+      "text": "Finger mobilization ✌️ + fine motor skills, soft grip 🤏.",
+      "video": "https://www.youtube.com/watch?v=DbphUrTFtis"
+    },
+    "Fingers — left": {
+      "title": "Fingers (left) 👆👈",
+      "text": "Finger mobilization ✌️ + fine motor skills, soft grip 🤏.",
+      "video": "https://www.youtube.com/watch?v=DbphUrTFtis"
+    },
+    "Thigh — right": {
+      "title": "Right thigh 🦵👉",
+      "text": "Glute/abductor activation 🍑 + knee control 🦵.",
+      "video": "https://www.youtube.com/watch?v=CWVEVBOGNE8"
+    },
+    "Thigh — left": {
+      "title": "Left thigh 🦵👈",
+      "text": "Glute/abductor activation 🍑 + knee control 🦵.",
+      "video": "https://www.youtube.com/watch?v=CWVEVBOGNE8"
+    },
+    "Knee — right": {
+      "title": "Right knee 🦵👉",
+      "text": "Knee axis 🦴 + step control 🚶, stabilization 🛡️.",
+      "video": "https://www.youtube.com/watch?v=CWVEVBOGNE8"
+    },
+    "Knee — left": {
+      "title": "Left knee 🦵👈",
+      "text": "Knee axis 🦴 + step control 🚶, stabilization 🛡️.",
+      "video": "https://www.youtube.com/watch?v=CWVEVBOGNE8"
+    },
+    "Shin/calf — right": {
+      "title": "Right shin/calf 🦵👉",
+      "text": "Gentle shin mobilization 🤲 + work of the calf muscles 💪.",
+      "video": "https://www.youtube.com/watch?v=CWVEVBOGNE8"
+    },
+    "Shin/calf — left": {
+      "title": "Left shin/calf 🦵👈",
+      "text": "Gentle shin mobilization 🤲 + work of the calf muscles 💪.",
+      "video": "https://www.youtube.com/watch?v=CWVEVBOGNE8"
+    },
+    "Ankle/foot — right": {
+      "title": "Right ankle/foot 🦶👉",
+      "text": "Ankle stabilization 🛡️ + foot arch control 👣.",
+      "video": "https://www.youtube.com/watch?v=CWVEVBOGNE8"
+    },
+    "Ankle/foot — left": {
+      "title": "Left ankle/foot 🦶👈",
+      "text": "Ankle stabilization 🛡️ + foot arch control 👣.",
+      "video": "https://www.youtube.com/watch?v=CWVEVBOGNE8"
+    },
+    "Toes — right": {
+      "title": "Toes (right) 👣👉",
+      "text": "Toe mobilization 🤲 + work with the arch 👣.",
+      "video": "https://www.youtube.com/watch?v=CWVEVBOGNE8"
+    },
+    "Toes — left": {
+      "title": "Toes (left) 👣👈",
+      "text": "Toe mobilization 🤲 + work with the arch 👣.",
+      "video": "https://www.youtube.com/watch?v=CWVEVBOGNE8"
+    },
+    "Bilateral pain": {
+      "title": "Bilateral pain ↔️",
+      "text": "Basic mobilization 🤸 + breathing 🌬️ + light core activation 💪.",
+      "video": "https://www.youtube.com/watch?v=v_P-9K74aFA"
+    },
+    "Several zones": {
+      "title": "Several zones 🗺️",
+      "text": "Start with basic spine mobilization 🌀 + breathing 🌬️, then — by symptoms 🔍.",
+      "video": "https://www.youtube.com/watch?v=v_P-9K74aFA"
+    },
+    "Not sure where exactly": {
+      "title": "Unclear ❓",
+      "text": "Gentle mobilization 🤲 + diaphragmatic breathing 🌬️ + core 💪.",
+      "video": "https://www.youtube.com/watch?v=v_P-9K74aFA"
+    },
+    "I want to take a mini-diagnosis": {
+      "title": "Mini-diagnosis 🔍",
+      "text": "Posture 🧍, breathing 🌬️, basic movements 🤸 — then personalization 🎯.",
+      "video": "https://www.youtube.com/watch?v=FqZcZv5R0WY"
+    }
+  },
+  "triggers": {
+    "When bending forward": "root 🤸‍♂️",
+    "When bending backward": "root 🤸‍♀️",
+    "When turning (left / right)": "root 🔄",
+    "When lifting an arm / leg": "root 🙋‍♂️🦵",
+    "When getting up from sitting": "root 🪑➡️🧍",
+    "With prolonged sitting": "root 🪑⏳",
+    "With prolonged walking": "root 🚶‍♂️🔁",
+    "Under load or after training": "root 🏋️‍♂️💦",
+    "At rest (even without movement)": "root 🛌",
+    "In the morning": "root 🌅",
+    "In the evening": "root 🌆",
+    "After sleep": "root 🛏️➡️",
+    "During inhalation / breathing": "root 🌬️",
+    "During sleep, at night": "root 🌙😴",
+    "After stress": "root 😰",
+    "Before or during menstruation": "root 🩸",
+    "Hard to say": "root 🤔"
+  },
+  "questions": {
+    "What is the nature of the pain?": [
+      {"Sharp": "Sharp pain means the body needs rest 😥. Try to reduce the load and take care of yourself 🤲."},
+      {"Dull": "Dull pain often appears due to muscle overstrain 😖. Light exercise and rest will help reduce it 🧘‍♀️."},
+      {"Pulling": "Pulling pain may signal muscle imbalance 🎯. Gentle stretching and strengthening exercises will be helpful 💪."},
+      {"Burning": "Burning pain is sometimes related to nerves 🔥. Move carefully and listen to your body 👂."}
+    ],
+    "How long does the pain last?": [
+      {"Constant": "Constant pain requires attention ⚠️. Try to reduce load and consult a specialist if needed 🩺."},
+      {"Periodic": "Periodic pain is often related to load or stress 📊. Watch the situations when it appears 🔍."}
+    ],
+    "When did the pain appear?": [
+      {"For the first time": "If the pain appeared for the first time, pay attention to the causes and avoid overloading the body 🆕."},
+      {"A long time ago": "Long-lasting pain requires a careful approach and gradual restoration of balance 📅."},
+      {"Suddenly": "Sudden pain may be related to a sharp movement or injury ⚡. Be careful 🚨."}
+    ],
+    "Were there injuries or surgeries?": [
+      {"Yes": "Previous injuries and surgeries leave a mark on the body 🩹. Take this into account during loads ⚖️."},
+      {"No": "There were no injuries or surgeries, so there are no special restrictions ✅."}
+    ],
+    "Is there pain or radiation to another part of the body?": [
+      {"Yes": "Pain that radiates to other parts of the body may be related to nerves or muscles 🔗. Move carefully 🐢."},
+      {"No": "There is no radiating pain, you can safely continue usual movements 🆗."}
+    ],
+    "Does the pain increase with movement? If yes — with which?": [
+      {"Does not increase": "Pain does not increase with movement, which is very good 👍."},
+      {"While walking": "Pain while walking may indicate load on the feet, pelvis or lower back 🚶‍♂️. Move carefully and take breaks ⏸️."},
+      {"During bends/turns": "Pain during bending is often associated with the lower back or thoracic region 🔄. Strengthening exercises will help 💪."},
+      {"With any activity": "Pain increases with any activity, so it is worth reducing the load and listening to the body 🔇."}
+    ],
+    "What provokes the pain?": [
+      {"Load": "Pain from load indicates muscle weakness or overload 🏋️‍♂️. Light recovery exercises will be useful 🔄."},
+      {"Stress": "Stress increases muscle tension 😤. Relaxing practices will help the body rest 🧘‍♂️."},
+      {"Sleep": "Pain after sleep may be related to posture or mattress 🛌. Try changing position or a supportive pillow 🛏️."},
+      {"Physical activity": "Pain after activity indicates overstrain or poor technique ⚙️. Gentle warm-up and rest will help 🧘‍♀️."}
+    ],
+    "Is there tension, numbness or tingling?": [
+      {"Yes": "Tension, numbness or tingling may appear due to spasms or nerve compression 📍. Gentle stretching and rest will help 🧖‍♀️."},
+      {"No": "No tension, numbness or tingling – excellent! 🎉"},
+      {"Don't know": "Watch sensations after load. If numbness or tingling appears, pay attention 👀."}
+    ],
+    "Is there swelling? When does it appear?": [
+      {"No swelling": "No swelling, body is fine ✅."},
+      {"In the morning": "Morning swelling may be related to sleep or kidneys 🌅. Drink water during the day and limit salt in the evening 🚱."},
+      {"In the evening": "Evening swelling often appears due to leg load 🌆. Rest with elevated legs and light massage will help 🛌."},
+      {"During the day": "Daytime swelling may be related to low mobility 🏙️. Take breaks and stretch, watch water intake 💧."}
+    ],
+    "Are there problems with breathing or chest?": [
+      {"Yes": "If there are breathing difficulties, breathing exercises and chest relaxation will be useful 🫁."},
+      {"No": "There are no problems with breathing or chest, everything is good ✅."}
+    ],
+    "Is the pain related to menstruation or childbirth?": [
+      {"Yes": "Pain related to hormonal changes requires gentle load and attention to the pelvic area and lower back 🩸."},
+      {"No": "There is no connection of pain with menstruation or childbirth, you can move as usual 🔄."}
+    ],
+        "Is there a fever or general weakness?": [
+      {"Yes": "If there is fever or weakness 🤒, it may be a systemic issue. Consult a doctor 🩺."},
+      {"No": "No fever or weakness — great ✅."}
+    ],
+    "Have you noticed posture changes?": [
+      {"Yes": "Posture changes 🧍 may affect the spine and muscles. Gentle corrective exercises will help 🤸."},
+      {"No": "No posture changes detected, body balance is maintained ⚖️."}
+    ],
+    "Do you want to add any additional information?": [
+      {"Yes": "Additional information can help clarify the cause of pain 🔍."},
+      {"No": "No additional details needed ✅."}
+    ]
+  }
+}
+
